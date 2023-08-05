@@ -63,7 +63,6 @@ occurrences of each value.
 25. Write a R program to create an array, passing in a vector of values and a vector of
 dimensions. Also provide names for each dimension.
 26. Write a R program to create a simple bar plot of five subjects’ marks.
-COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)
 27. Write a R program to compute the sum, mean and product of a given vector element.
 28. Write a R program to create a Data Frames which contain details of 5 employees and
 display the details.
