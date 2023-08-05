@@ -1,0 +1,69 @@
+BIG DATA PROCESSING LAB
+* Mandatory
+1. Perform setting up and Installing Hadoop in any of the three operating modes:
+Standalone, Pseudo distributed, Fully distributed.*
+2. Explore the various shell commands in Hadoop.
+3. Implement the following file management tasks in Hadoop:
+● Adding Files and Directories
+● Retrieving Files
+● Deleting Files
+4. Implement a word count program using Map Reduce.
+5. Write a R program to find the factorial and check for palindromes.*
+6. Write a R program to solve linear regression and make predictions.*
+7. Write a R program to solve logistic regression.*
+8. Implement statistical operations using R.*
+9. Implement a program to find variance, covariance and correlation between different types
+of attributes.*
+10. Implement SVM/Decision tree Classifier.*
+11. Implement clustering algorithm.*
+12. To explore Hive with its basic commands
+13. Write Pig Latin scripts to sort, group, join, project, and filter your data.
+14. Install, Deploy and configure Apache Spark.
+
+BIG DATA PROCESSING LAB - PRACTICE QUESTIONS
+1. Write a MapReduce Program to retrieve data from documents.
+2. Write word count program that only count the words starting with 'a'
+3. Write a word count program that only counts the words whose length is longer than 10.
+4. Using the structure of the Word Count program, write a Hadoop program that calculates
+the average word length of all words that start with each character.
+5. Implement matrix multiplication with Hadoop Map Reduce
+6. Write a Map Reduce program for removing stop words from the given text files.
+7. Write a MapReduce Program to count the number of lines in a document.
+8. Write Pig Latin script to count the number of occurrences of each word in an input text
+file.
+9. Write a program to simulate Singular Value Decomposition
+10. Write a program to simulate PCA.
+11. Write a single Spark application that:
+a. Transposes the original Amazon food dataset, obtaining a Pair RDD of the type:
+user-id – list of the product-ids reviewed by user-id
+b. Counts the frequencies of all the pairs of products reviewed together;
+c. Writes on the output folder all the pairs of products that appear more than once
+and their frequencies.
+d. The pairs of products must be sorted by frequency..
+12. Write a program to implement a stop word elimination problem. Input: A large textual file
+containing one sentence per line. A small file containing a set of Stop Words (One Stop
+Word per line) Output:A textual file containing the same sentences of the large input file
+without the words appearing in the small file
+13. Implement matrix multiplication with Map Reduce.
+14. Implement basic Pig Latin Scripts based on different scenarios.
+15. Implement Frequent Item set algorithm
+16. Implement Clustering algorithm
+17. Implement Page Rank algorithm
+18. Implement Bloom Filter
+19. Write a R program to create a sequence of numbers from 20 to 50 and find the mean of
+numbers from 20 to 60 and sum of numbers from 51 to 91.
+20. Write a R program to create a vector which contains 10 random integer values between -50
+and +50.
+21. Write a R program to find the maximum and the minimum value of a given vector.
+22. Write a R program to get the unique elements of a given string and unique numbers of
+vectors.
+23. Write a R program to create a list of random numbers in normal distribution and count
+occurrences of each value.
+24. Write a R program to read the .csv file and display the content.
+25. Write a R program to create an array, passing in a vector of values and a vector of
+dimensions. Also provide names for each dimension.
+26. Write a R program to create a simple bar plot of five subjects’ marks.
+COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)
+27. Write a R program to compute the sum, mean and product of a given vector element.
+28. Write a R program to create a Data Frames which contain details of 5 employees and
+display the details.
